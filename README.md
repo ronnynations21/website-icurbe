@@ -7,4 +7,7 @@ Javascript
 HTMl + CSS + Bootstrap
 MySQL (The DB for record all the clients or users in contact with us)
 
+Soon this website will be available with this new code. For the moment is available a version in a static web page in: https://icurbe.com/
+Now i´m coding this new website in my local server. Sorry for no to give you access in my Cave. Ja ja ja!!!
+
 Happy coders!!!
